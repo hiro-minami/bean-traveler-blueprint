@@ -44,10 +44,9 @@
   - API Gateway
   - Lambda（バックエンドはここに記入する）
   - RDS（Lambdaとの接続に課題があるみたいだけど、導入してみる）
-### バックエンド
-- Node.js
+### バックエンド(API)
+- Golang
   - Lambda
-  - TypeScript
 ### フロントエンド
 - Next.js
   - TypeScript
